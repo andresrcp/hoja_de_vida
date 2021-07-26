@@ -1,0 +1,22 @@
+.container{
+    border: double gray;
+}
+
+.photo{
+    max-width: 60%;
+    max-height: 60%;
+    border-radius: 25%;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    border: double 2px;
+}
+
+.blockquote-footer{
+    color:white;
+}
+
+.container-right{
+    margin-top: 25px;
+}
